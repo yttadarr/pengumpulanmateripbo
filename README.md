@@ -2,3 +2,4 @@
 - class objek
 - constructor
 - inheritance
+- abstract class
