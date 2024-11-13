@@ -3,3 +3,4 @@
 - constructor
 - inheritance
 - abstract class
+- interface
