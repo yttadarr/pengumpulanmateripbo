@@ -4,3 +4,4 @@
 - inheritance
 - abstract class
 - interface
+- static properties
